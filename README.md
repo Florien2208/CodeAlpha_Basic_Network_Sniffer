@@ -21,3 +21,6 @@ This repository contains a simple network sniffer built using Python and the `sc
 ```bash
 git clone https://github.com/yourusername/basic-network-sniffer.git
 cd basic-network-sniffer
+
+
+![img.png](img.png)
